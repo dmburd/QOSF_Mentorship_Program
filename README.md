@@ -1,2 +1,2 @@
-# QOSF_Mentorship_Program
-Solutions of the screening tasks for the QOSF Mentorship Program
+# QOSF Mentorship Program
+Solutions of the screening tasks for the QOSF Mentorship Program.
